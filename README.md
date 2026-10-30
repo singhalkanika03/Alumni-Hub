@@ -3,17 +3,26 @@
 Alumni Hub is a web-based platform designed to connect students and alumni through a common space. It helps organize alumni information and explore professional backgrounds, skills, employers, and batch-wise data.
 
 ## Features
+
 -Alumni information management
+
 -Alumni networking and professional connections
+
 -Search and filter alumni information
+
 -E-xplore alumni by batch, skills, and employersAnalytics dashboards for alumni insights
+
 -SQL-based data management and analysis
 
 
 ## Tech Stack
+
 -Frontend: Next.js, React, TypeScript
+
 -Database: PostgreSQL
+
 -Backend & Services: Supabase
+
 -Query Language: SQL
 
 ## Getting Started
