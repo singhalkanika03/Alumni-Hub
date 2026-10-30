@@ -1,28 +1,26 @@
 # Alumni Hub 🎓
 ### Alumni Networking & Analytics Platform
-
-Alumni Hub is a project focused on connecting alumni and students through a common platform. It aims to organize alumni information and make professional connections easier to explore.
+Alumni Hub is a web-based platform designed to connect students and alumni through a common space. It helps organize alumni information and explore professional backgrounds, skills, employers, and batch-wise data.
 
 ## Features
-- Alumni information management
-- Alumni networking
-- Employer and professional background exploration
-- Batch-wise and skills-based information
-- SQL-based data analysis
+-Alumni information management
+-Alumni networking and professional connections
+-Search and filter alumni information
+-E-xplore alumni by batch, skills, and employersAnalytics dashboards for alumni insights
+-SQL-based data management and analysis
+
 
 ## Tech Stack
-- Next.js
-- React
-- TypeScript
-- PostgreSQL
-- Supabase
-- SQL
+-Frontend: Next.js, React, TypeScript
+-Database: PostgreSQL
+-Backend & Services: Supabase
+-Query Language: SQL
 
 ## Getting Started
 
 ### 1. Clone the repository
 ```bash
-git clone YOUR-REPOSITORY-URL
+git clone https://github.com/singhalkanika03/Alumni-Hub.git
 ```
 
 ### 2. Open the project folder
